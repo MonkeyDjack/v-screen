@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Myriad Set Pro';
+	src: url('MyriadSetPro-Ultralight.eot');
+	src: url('MyriadSetPro-Ultralight.eot?#iefix') format('embedded-opentype'),
+		url('MyriadSetPro-Ultralight.woff') format('woff'),
+		url('MyriadSetPro-Ultralight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
